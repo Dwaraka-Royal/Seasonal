@@ -1,0 +1,9 @@
+div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+span{
+    font-weight:700;
+    font-size:20px;
+}
